@@ -17,58 +17,28 @@
   <summary>Expand</summary>
         
 ### Languages
-![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)
-![Rust](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust)
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
+![Rust](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust)
+![Go](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)
 ### Frameworks
-![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
-### Databases
-![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)
-### Technologys
+![Bun](https://img.shields.io/badge/bun-black?style=for-the-badge&logo=bun)
+![Langchain](https://img.shields.io/badge/langchain-black?style=for-the-badge&logo=langchain)
+![Langgraph](https://img.shields.io/badge/langgraph-black?style=for-the-badge&logo=langgraph)
+![Langflow](https://img.shields.io/badge/langflow-black?style=for-the-badge&logo=langflow)
 ![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)
+![Next](https://img.shields.io/badge/next-black?style=for-the-badge&logo=nextdotjs)
+### Databases
+![PostgreSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)
+![SQLite](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite)
+![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)
+### Technologys
+![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)
 ![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)
-
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50"></a>
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50"></a>
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
-<a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50"></a>
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50"></a>
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50"></a>
-</div>
-
-</td></tr></table>  
+![GitLab](https://img.shields.io/badge/gitlab-black?style=for-the-badge&logo=gitlab)
+![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux)
+![Ubuntu](https://img.shields.io/badge/ubuntu-black?style=for-the-badge&logo=ubuntu)
+![N8n](https://img.shields.io/badge/n8n-black?style=for-the-badge&logo=n8n)
 
 <br/>
 
